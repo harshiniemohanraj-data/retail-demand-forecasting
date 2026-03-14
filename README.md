@@ -39,3 +39,18 @@ The following analyses were conducted:
 - `retail_demand_forecasting.ipynb` – main analysis notebook
 - `train.csv` – dataset
 - Visualisation charts for analysis results
+
+## Key Visualisations
+
+### Weekly Retail Sales Trend
+![Weekly Retail Sales Trend](Weekly Retail Sales Trend.png)
+
+### Average Monthly Sales
+![Average Monthly Sales](Average Monthly Sales.png)
+
+### Holiday vs Non-Holiday Sales
+![Holiday vs Non-Holiday Sales](Holiday vs Non-Holiday Sales.png)
+
+### Retail Demand Forecast
+![Retail Demand Forecast](Retail Demand Forecast.png)
+
